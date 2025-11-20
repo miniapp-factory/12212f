@@ -1,0 +1,188 @@
+
+# 2025-11-20 21:49:22.089204
++Code the following app
++```
++Technical Specification (TS) – Crypto Alchemy & Chaos App
++1. Project Overview
++
++In the swirling ether of blockchain stars, the Crypto Alchemy & Chaos App manifests wealth and risk as living entities. Users summon coins, whisper to wallets, and navigate the cryptic tides of market chaos. Profit, loss, and paranoia dance together in a mystical symphony.
++
++Purpose: Transform mundane portfolio management into an arcane ritual of numbers, charts, and random chaos.
++
++2. Functional Requirements
++2.1 Summoning the Coins
++
++Add coins via ritualistic gestures (manual entry) or invoke through exchange API keys (Binance, Kraken, Coinbase).
++
++Track quantity, mystical purchase price, astral date.
++
++Observe invisible threads of correlation linking your coins to market destinies.
++
++2.2 Chaos & Risk Oracles
++
++Portfolio volatility shown as fluctuating flame graphs.
++
++Sharpe ratio appears as an aura; max drawdown as storm clouds.
++
++Simulate apocalyptic scenarios: sudden 50% dips, meteoric rises.
++
++Alerts whisper warnings when overexposed to a single currency’s dark magic.
++
++2.3 Automated Rituals (Trading Bots)
++
++Bot familiars obey commands: Buy, Sell, or Hover in shadow.
++
++Strategies: “Moonlight Entry”, “Shadow Exit”, “The Panic Dance”.
++
++Test in phantom realm (paper trading) before risking corporeal coins.
++
++2.4 Portals & Visualization
++
++Dashboard portal: shows portfolio essence, bot familiars, risk aura.
++
++Candlestick crystals with mystical overlays (RSI, MACD, Bollinger Bands).
++
++Pie charts of allocation appear as spinning talismans.
++
++2.5 Alerts & Incantations
++
++Push notifications as whispers of fate: “BTC trembles!”, “ETH ascends!”
++
++Vibrations mimic heartbeat of crypto cosmos.
++
++2.6 Security & Enchantments
++
++API keys and wallet secrets sealed in encryption runes.
++
++Multi-factor authentication: finger, face, or secret chant.
++
++Optional “Cold Vault” integration for items too precious for mortal eyes.
++
++3. Non-Functional Requirements
++
++Performance: Real-time price updates faster than the blink of a quantum cat.
++
++Offline Mode: Charts persist in dreamscape even when disconnected.
++
++UI: Surreal, glyph-inspired design with light/dark mystic modes.
++
++Storage: SQLite, Realm, Hive — coffers for coins and secrets.
++
++4. Technical Stack
++
++Mobile: Flutter or React Native, enchanted with notifications.
++
++Backend: Node.js/Django with WebSocket portals.
++
++Market Data: CoinGecko, CoinMarketCap, exchange familiars.
++
++Security: End-to-end encryption runes, 2FA, biometric wards.
++
++5. Future Enhancements
++
++AI Oracle predicts market prophecies.
++
++Social Coven: share spells (strategies) with other summoners.
++
++DeFi portals and staking circles.
++
++NFT familiars appearing in your portfolio aura.
++
++Gamification: achievements for surviving market eclipses or taming volatile coins.
++```
++
++Generate an app logo and update the app metadata title and description.
+
+# 2025-11-20 21:49:22.090185
++Code the following app
++```
++Technical Specification (TS) – Crypto Alchemy & Chaos App
++1. Project Overview
++
++In the swirling ether of blockchain stars, the Crypto Alchemy & Chaos App manifests wealth and risk as living entities. Users summon coins, whisper to wallets, and navigate the cryptic tides of market chaos. Profit, loss, and paranoia dance together in a mystical symphony.
++
++Purpose: Transform mundane portfolio management into an arcane ritual of numbers, charts, and random chaos.
++
++2. Functional Requirements
++2.1 Summoning the Coins
++
++Add coins via ritualistic gestures (manual entry) or invoke through exchange API keys (Binance, Kraken, Coinbase).
++
++Track quantity, mystical purchase price, astral date.
++
++Observe invisible threads of correlation linking your coins to market destinies.
++
++2.2 Chaos & Risk Oracles
++
++Portfolio volatility shown as fluctuating flame graphs.
++
++Sharpe ratio appears as an aura; max drawdown as storm clouds.
++
++Simulate apocalyptic scenarios: sudden 50% dips, meteoric rises.
++
++Alerts whisper warnings when overexposed to a single currency’s dark magic.
++
++2.3 Automated Rituals (Trading Bots)
++
++Bot familiars obey commands: Buy, Sell, or Hover in shadow.
++
++Strategies: “Moonlight Entry”, “Shadow Exit”, “The Panic Dance”.
++
++Test in phantom realm (paper trading) before risking corporeal coins.
++
++2.4 Portals & Visualization
++
++Dashboard portal: shows portfolio essence, bot familiars, risk aura.
++
++Candlestick crystals with mystical overlays (RSI, MACD, Bollinger Bands).
++
++Pie charts of allocation appear as spinning talismans.
++
++2.5 Alerts & Incantations
++
++Push notifications as whispers of fate: “BTC trembles!”, “ETH ascends!”
++
++Vibrations mimic heartbeat of crypto cosmos.
++
++2.6 Security & Enchantments
++
++API keys and wallet secrets sealed in encryption runes.
++
++Multi-factor authentication: finger, face, or secret chant.
++
++Optional “Cold Vault” integration for items too precious for mortal eyes.
++
++3. Non-Functional Requirements
++
++Performance: Real-time price updates faster than the blink of a quantum cat.
++
++Offline Mode: Charts persist in dreamscape even when disconnected.
++
++UI: Surreal, glyph-inspired design with light/dark mystic modes.
++
++Storage: SQLite, Realm, Hive — coffers for coins and secrets.
++
++4. Technical Stack
++
++Mobile: Flutter or React Native, enchanted with notifications.
++
++Backend: Node.js/Django with WebSocket portals.
++
++Market Data: CoinGecko, CoinMarketCap, exchange familiars.
++
++Security: End-to-end encryption runes, 2FA, biometric wards.
++
++5. Future Enhancements
++
++AI Oracle predicts market prophecies.
++
++Social Coven: share spells (strategies) with other summoners.
++
++DeFi portals and staking circles.
++
++NFT familiars appearing in your portfolio aura.
++
++Gamification: achievements for surviving market eclipses or taming volatile coins.
++```
++
++Generate an app logo and update the app metadata title and description.
